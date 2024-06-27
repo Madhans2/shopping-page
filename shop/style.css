@@ -1,0 +1,406 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul,li,h1{
+    display: inline;
+}
+.sear{
+    margin-left: 10%;
+    cursor: pointer;
+}
+.use,.her,.shop{
+    margin-left: 20px;
+    cursor: pointer;
+}
+h1{
+    font-size: 40px;
+    margin: 10%;
+}
+ul,li{
+    font-size: 18px;
+    margin-left: 3%;
+    cursor: pointer;
+}
+li:hover{
+    color: red;
+}
+h2{
+    margin-top: 40px;
+    color: white;
+    background-color: black;
+    padding-left: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.one{
+    margin-top: 20px;
+}
+a{
+    color: black;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    padding: 20px;
+    margin: 150px;
+}
+.first{
+    margin-left: 20%;
+}
+.two{
+    color: black;
+    background-color: white;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 140px;
+}
+.three{
+    color: black;
+    background-color: white;
+    display: inline-block;
+    padding: 20px;
+    margin-left: 140px;
+}
+.four{
+    color: black;
+    background-color: white;
+    display: inline-block;
+    padding: 20px;
+    margin-left: 140px;
+}
+.five{
+    color: black;
+    background-color: white;
+    display: inline-block;
+    padding: 20px;
+    margin-left: 140px;
+}
+.fon{
+    margin-top: 10%;
+    margin-left: 70%;
+}
+.sty{
+    font-size: 50px;
+    margin-left: 65%;
+}
+.fff{
+    font-size: 20px;
+    margin-left: 50%; 
+    margin-right: 10%;  
+}
+.abc{
+    margin-top: 60px;
+    margin-left: 10%;
+}
+.def,.ghi{
+    font-size: 20px;    
+    display: inline-block;
+    margin-left: 15%;
+    background-color: white;
+    padding: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    cursor: pointer;
+}
+.def:hover{
+    color: red;
+}
+.ghi:hover{
+    color: red;
+}
+.top{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 45%;
+}
+hr{
+    width: 10px;
+    margin-top: 40px;
+}
+.women,.men,.kids{
+    display: inline;
+    font-size: 20px;
+    cursor: pointer;
+}
+.women{
+    margin-left: 48%;
+}
+.men,.kids{
+    margin-left: 3%;
+}
+.women:hover,.men:hover,.kids:hover{
+    color: red;
+}
+.he{
+    margin-top: 40px;
+}
+.he{
+    display: inline-block;
+    background-color: white;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 5%;
+    cursor: pointer;
+}
+.heal{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.co{
+    display: inline-block;
+    background-color: white;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 2%;
+    cursor: pointer;
+}
+.cotten{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.sh{
+    display: inline-block;
+    background-color: white;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 2%;
+    cursor: pointer;
+}
+.shoe{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.cr{
+    display: inline-block;
+    background-color: white;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 2%;
+    cursor: pointer;
+}
+.crope{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.fas{
+    margin-top: 50px;
+}
+.dis{
+    margin-top: 50px;
+    margin-left: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.dis:hover{
+    color: red;
+}
+.fas{
+    display: inline-block;
+    background-color: aliceblue;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+.get{
+    display: inline-block;
+    position: absolute;
+    background-color: aliceblue;
+    margin-top: 5%;
+    height: 480px;
+    width: 820px;
+    padding-left: 10%;
+    cursor: pointer;
+
+}
+.ge,.sum{
+    font-size: 40px;
+}
+.num{
+    font-size: 40px;
+    color: orangered;
+}
+.days{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.shope{
+    color: white;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: black;
+    width: 100px;
+}
+.lat{
+    margin-top: 40px;
+    margin-left: 40%;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.low{
+    display: inline-block;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+    margin-left: 15%;
+}
+.dre{
+    display: inline-block;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+    margin-left: 5%;
+}
+.tsh{
+    display: inline-block;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+    margin-left: 5%;
+}
+.pper{
+    margin-top: 60px;
+    margin-left: 45%;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.appear{
+    margin-top: 20px;
+    margin-left: 40%;
+    font-size: 20px;
+}
+.wat{
+    display: inline-block;
+    margin-left: 7%;
+}
+.cla{
+    display: inline-block;
+}
+.clai{
+    display: inline-block;
+}
+.ph{
+    display: inline-block;
+}
+.wch{
+    display: inline-block;
+}
+.claimax{
+    display: inline-block;
+}
+.mango{
+    margin-top: 40px; 
+    margin-left: 7%;  
+}
+.go,.za,.re,.as,.st,.ad,.be{
+    display: inline;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.za,.re,.as,.st,.ad,.be{
+    margin-left: 6%;
+}
+.want{
+    color: white;
+    font-family: fantasy;
+    font-size: 30px;
+    margin-left: 35%;
+}
+.tit{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    cursor: pointer;
+}
+.sup{
+    display: inline-block;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 60px;
+    cursor: pointer;
+}
+.su{
+    color: white;
+    font-size: 30px;
+}
+
+.con{
+    margin-top: 10px;
+}
+.con,.fa,.si,.shi{
+    color: white;
+    font-size: 20px;
+}
+.pop{
+    display: inline-block;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 60px;
+    cursor: pointer;
+}
+.popp{
+    color: white;
+    font-size: 30px;
+}
+.me{
+    margin-top: 20px;
+}
+.me,.wo,.ki,.bis{
+    color: white;
+    font-size: 20px;
+}
+.pany{
+    display: inline-block;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 60px;
+    cursor: pointer;
+}
+.pan{
+    color: white;
+    font-size: 30px;
+}
+.ou{
+    margin-top: 20px;
+}
+.ou,.ca,.te,.pri{
+    color: white;
+    font-size: 20px;
+}
+.tact{
+    display: inline-block;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 60px;
+    cursor: pointer;
+}
+.tac{
+    color: white;
+    font-size: 30px;
+}
+.bes{
+    margin-top: 20px;
+}
+.bes,.ber,.mail{
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
